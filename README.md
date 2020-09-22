@@ -107,7 +107,55 @@ HackerRank
 │       Day 8 Pearson Correlation Coefficient II.txt
 │
 ├───30 Days of Code
+│       Day 0 Hello, World.py
+│       Day 1 Data Types.py
+│       Day 2 Operators.py
+│       Day 3 Intro to Conditional Statements.py
+│       Day 4 Class vs. Instance.py
+│       Day 5 Loops.py
+│       Day 6 Let's Review.py
+│
 ├───C++
+│       Basic Data Types.cpp
+│       Conditional Statements.cpp
+│       For Loop.cpp
+│       Input and Output.cpp
+│       Say Hello, World! With C++.cpp
+│       Strings.cpp
+│
 ├───Python
-└───Sql
+│       Arithmetic Operators.py
+│       Capitalize!.py
+│       Find the Runner-Up Score!.py
+│       Loops.py
+│       Print Function.py
+│       Python Division.py
+│       Python If-Else.py
+│       Say Hello, World! With Python.py
+│       Write a function.py
+│
+└───SQL
+    ├───Aggregation
+    │       Weather Observation Station 2.sql
+    │
+    └───Basic Select
+            Employee Names.sql
+            Employee Salaries.sql
+            Japanese Cities' Attributes.sql
+            Japanese Cities' Names.sql
+            Revising the Select Query I.sql
+            Revising the Select Query II.sql
+            Select All.sql
+            Select By ID.sql
+            Weather Observation Station 1.sql
+            Weather Observation Station 10.sql
+            Weather Observation Station 11.sql
+            Weather Observation Station 12.sql
+            Weather Observation Station 3.sql
+            Weather Observation Station 4.sql
+            Weather Observation Station 5.sql
+            Weather Observation Station 6.sql
+            Weather Observation Station 7.sql
+            Weather Observation Station 8.sql
+            Weather Observation Station 9.sql
 ```
